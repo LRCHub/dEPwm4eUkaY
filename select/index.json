@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君が死にたくなるのは、",
+  "base_artist": "アサノマチ",
+  "createdAt": "2026-02-26T05:48:25.912117Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が死にたくなるのは、",
+      "artist": "アサノマチ feat. Smiley_*",
+      "has_synced": false,
+      "path": "select/pl_01_君が死にたくなるのは、_アサノマチ_feat._Smiley.txt"
+    }
+  ]
+}
